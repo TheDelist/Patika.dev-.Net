@@ -1,0 +1,16 @@
+C:\Users\samke\Desktop\web\.net\alıştırma\bin\Debug\net5.0\alıştırma.exe
+C:\Users\samke\Desktop\web\.net\alıştırma\bin\Debug\net5.0\alıştırma.deps.json
+C:\Users\samke\Desktop\web\.net\alıştırma\bin\Debug\net5.0\alıştırma.runtimeconfig.json
+C:\Users\samke\Desktop\web\.net\alıştırma\bin\Debug\net5.0\alıştırma.runtimeconfig.dev.json
+C:\Users\samke\Desktop\web\.net\alıştırma\bin\Debug\net5.0\alıştırma.dll
+C:\Users\samke\Desktop\web\.net\alıştırma\bin\Debug\net5.0\ref\alıştırma.dll
+C:\Users\samke\Desktop\web\.net\alıştırma\bin\Debug\net5.0\alıştırma.pdb
+C:\Users\samke\Desktop\web\.net\alıştırma\obj\Debug\net5.0\alıştırma.csproj.AssemblyReference.cache
+C:\Users\samke\Desktop\web\.net\alıştırma\obj\Debug\net5.0\alıştırma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samke\Desktop\web\.net\alıştırma\obj\Debug\net5.0\alıştırma.AssemblyInfoInputs.cache
+C:\Users\samke\Desktop\web\.net\alıştırma\obj\Debug\net5.0\alıştırma.AssemblyInfo.cs
+C:\Users\samke\Desktop\web\.net\alıştırma\obj\Debug\net5.0\alıştırma.csproj.CoreCompileInputs.cache
+C:\Users\samke\Desktop\web\.net\alıştırma\obj\Debug\net5.0\alıştırma.dll
+C:\Users\samke\Desktop\web\.net\alıştırma\obj\Debug\net5.0\ref\alıştırma.dll
+C:\Users\samke\Desktop\web\.net\alıştırma\obj\Debug\net5.0\alıştırma.pdb
+C:\Users\samke\Desktop\web\.net\alıştırma\obj\Debug\net5.0\alıştırma.genruntimeconfig.cache
