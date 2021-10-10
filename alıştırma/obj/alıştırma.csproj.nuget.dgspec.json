@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samke\\Desktop\\web\\.net\\alıştırma\\alıştırma.csproj": {}
+    "c:\\Users\\samke\\Desktop\\web\\.net\\alıştırma\\alıştırma.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samke\\Desktop\\web\\.net\\alıştırma\\alıştırma.csproj": {
+    "c:\\Users\\samke\\Desktop\\web\\.net\\alıştırma\\alıştırma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samke\\Desktop\\web\\.net\\alıştırma\\alıştırma.csproj",
+        "projectUniqueName": "c:\\Users\\samke\\Desktop\\web\\.net\\alıştırma\\alıştırma.csproj",
         "projectName": "alıştırma",
-        "projectPath": "C:\\Users\\samke\\Desktop\\web\\.net\\alıştırma\\alıştırma.csproj",
+        "projectPath": "c:\\Users\\samke\\Desktop\\web\\.net\\alıştırma\\alıştırma.csproj",
         "packagesPath": "C:\\Users\\samke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samke\\Desktop\\web\\.net\\alıştırma\\obj\\",
+        "outputPath": "c:\\Users\\samke\\Desktop\\web\\.net\\alıştırma\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samke\\AppData\\Roaming\\NuGet\\NuGet.Config"
