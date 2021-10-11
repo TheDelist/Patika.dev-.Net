@@ -1,0 +1,16 @@
+C:\Users\samke\Desktop\web\.net\odev-2\bin\Debug\net5.0\odev-2.exe
+C:\Users\samke\Desktop\web\.net\odev-2\bin\Debug\net5.0\odev-2.deps.json
+C:\Users\samke\Desktop\web\.net\odev-2\bin\Debug\net5.0\odev-2.runtimeconfig.json
+C:\Users\samke\Desktop\web\.net\odev-2\bin\Debug\net5.0\odev-2.runtimeconfig.dev.json
+C:\Users\samke\Desktop\web\.net\odev-2\bin\Debug\net5.0\odev-2.dll
+C:\Users\samke\Desktop\web\.net\odev-2\bin\Debug\net5.0\ref\odev-2.dll
+C:\Users\samke\Desktop\web\.net\odev-2\bin\Debug\net5.0\odev-2.pdb
+C:\Users\samke\Desktop\web\.net\odev-2\obj\Debug\net5.0\odev-2.csproj.AssemblyReference.cache
+C:\Users\samke\Desktop\web\.net\odev-2\obj\Debug\net5.0\odev-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samke\Desktop\web\.net\odev-2\obj\Debug\net5.0\odev-2.AssemblyInfoInputs.cache
+C:\Users\samke\Desktop\web\.net\odev-2\obj\Debug\net5.0\odev-2.AssemblyInfo.cs
+C:\Users\samke\Desktop\web\.net\odev-2\obj\Debug\net5.0\odev-2.csproj.CoreCompileInputs.cache
+C:\Users\samke\Desktop\web\.net\odev-2\obj\Debug\net5.0\odev-2.dll
+C:\Users\samke\Desktop\web\.net\odev-2\obj\Debug\net5.0\ref\odev-2.dll
+C:\Users\samke\Desktop\web\.net\odev-2\obj\Debug\net5.0\odev-2.pdb
+C:\Users\samke\Desktop\web\.net\odev-2\obj\Debug\net5.0\odev-2.genruntimeconfig.cache
